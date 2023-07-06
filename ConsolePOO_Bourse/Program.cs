@@ -1,6 +1,6 @@
 ﻿//Je veux générer une bourse avec une liste d'actions disponibles à la vente
 //Avec mon porte-feuille je veux pouvoir acheter vendre ces actions
-//VERSION THREAD 1.0
+//VERSION THREAD 1.1
 
 using ConsolePOO_Bourse.Models;
 using ConsolePOO_Bourse.Utils;
